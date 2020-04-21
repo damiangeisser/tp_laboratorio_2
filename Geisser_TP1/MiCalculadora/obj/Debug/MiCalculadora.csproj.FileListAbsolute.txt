@@ -1,0 +1,12 @@
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\bin\Debug\Entidades.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
