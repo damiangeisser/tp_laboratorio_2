@@ -3,3 +3,8 @@ D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\bin\De
 D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\obj\Debug\Entidades.csprojAssemblyReference.cache
 D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\obj\Debug\Entidades.dll
 D:\Estudio\Programación\Programación_II\Programacion_II_TP1\Geisser_TP1\obj\Debug\Entidades.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP1\bin\Debug\Entidades.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP1\bin\Debug\Entidades.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP1\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP1\obj\Debug\Entidades.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP1\obj\Debug\Entidades.pdb
