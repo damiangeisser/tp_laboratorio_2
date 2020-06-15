@@ -1,0 +1,5 @@
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Archivos\bin\Debug\Archivos.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Archivos\obj\Debug\Archivos.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Archivos\obj\Debug\Archivos.pdb

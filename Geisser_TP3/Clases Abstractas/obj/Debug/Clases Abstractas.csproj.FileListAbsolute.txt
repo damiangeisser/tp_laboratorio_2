@@ -1,0 +1,8 @@
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

@@ -1,0 +1,5 @@
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Excepciones\obj\Debug\Excepciones.pdb

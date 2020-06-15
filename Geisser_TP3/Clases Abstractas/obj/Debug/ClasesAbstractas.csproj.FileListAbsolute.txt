@@ -1,0 +1,16 @@
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\ClasesAbstractas.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\ClasesAbstractas.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\bin\Debug\ClasesAbstractas.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\bin\Debug\ClasesAbstractas.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP3\Clases Abstractas\obj\Debug\ClasesAbstractas.pdb
