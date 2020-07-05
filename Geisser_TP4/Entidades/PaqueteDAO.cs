@@ -57,7 +57,7 @@ namespace Entidades
             }
             catch (Exception e)
             {
-                throw new Exception(e.Message, e);
+                throw new Exception(e.Message);
             }
         }
     }

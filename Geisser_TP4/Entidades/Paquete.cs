@@ -19,7 +19,7 @@ namespace Entidades
 
             this.TrackingID = trackingID;
         }
-        
+
         public string DireccionEntrega
         {
             get
@@ -55,34 +55,44 @@ namespace Entidades
                 this.trackingID = value;
             }
         }
-        
+
         /// <summary>
         /// Getiona el ciclo de vida del paquete, cambiando su estado,
         /// informándolo y guardándolo en la base datos al pasar a entregado.
         /// </summary>
         public void mockCicloDeVida()
         {
-            while (this.Estado != EEstado.Entregado)
+            try
             {
+                while (this.Estado != EEstado.Entregado)
+                {
+                    this.InformaEstado.Invoke(this, null);
+
+                    Thread.Sleep(4000);
+
+                    if (this.Estado == EEstado.Ingresado)
+                    {
+                        this.Estado = EEstado.EnViaje;
+                    }
+                    else
+                    {
+                        this.Estado = EEstado.Entregado;
+                    }
+                }
+
                 this.InformaEstado.Invoke(this, null);
 
-                Thread.Sleep(4000);
-
-                if (this.Estado == EEstado.Ingresado)
-                {
-                    this.Estado = EEstado.EnViaje;
-                }
-                else
-                {
-                    this.Estado = EEstado.Entregado;
-                }
+                PaqueteDAO.Insertar(this);
             }
+            catch (Exception e)
+            {
+                //throw new Exception(e.Message, e);
 
-            this.InformaEstado.Invoke(this, null);
-
-            PaqueteDAO.Insertar(this);
+                /*No logré hacer llegar la excepción capturada 
+                 al hilo principal*/
+            }
         }
-        
+
         /// <summary>
         /// Genera un string con los datos del paquete.
         /// </summary>

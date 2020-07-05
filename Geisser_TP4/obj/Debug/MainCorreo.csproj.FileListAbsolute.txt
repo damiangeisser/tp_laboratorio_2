@@ -10,3 +10,15 @@ D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.
 D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\bin\Debug\Entidades.pdb
 D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\obj\Debug\MainCorreo.FrmPpal.resources
 D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\bin\Debug\MainCorreo.exe.config
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\bin\Debug\MainCorreo.exe
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\bin\Debug\MainCorreo.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\bin\Debug\Entidades.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\bin\Debug\Entidades.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\obj\Debug\MainCorreo.FrmPpal.resources
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\obj\Debug\MainCorreo.exe
+D:\Estudio\Programación\Programación_II\Programacion_II_TP1\tp_laboratorio_2\Geisser_TP4\obj\Debug\MainCorreo.pdb

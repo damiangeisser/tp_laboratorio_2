@@ -13,11 +13,11 @@ namespace Entidades
         /// Crea un archivo de texto con la información enviada, o si ya existe agrega esa información al archivo.
         /// </summary>
         public static bool Guardar(this string texto, string archivo)
-        {
-            string ruta = Path.Combine($@"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}\", $"{archivo}");
-
+        { 
             try
             {
+                string ruta = Path.Combine($@"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}\", $"{archivo}");
+
                 if (Directory.Exists(Path.GetDirectoryName(ruta)))
                 {
                     if (!File.Exists(ruta))
@@ -46,7 +46,13 @@ namespace Entidades
             }
             catch (Exception e)
             {
-                throw new Exception(e.Message, e);
+                return false;
+
+                /*Dado que el handler btnMostrarTodos_Click debe consistir de una
+                sola línea de código especificada en la consigna del TP, no tiene la
+                capacidad de manejarlas posibles excepciones generadas por la escritura
+                del archivo lanzadas desde este método para poder mostrarlo como un
+                MessageBox en el Form.*/
             }
         }
     }

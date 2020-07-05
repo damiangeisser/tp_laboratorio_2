@@ -2,12 +2,7 @@
 using Entidades.Excepciones;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using static Entidades.Paquete;
 
@@ -30,6 +25,20 @@ namespace MainCorreo
         {
             try
             {
+                if (string.IsNullOrEmpty(Regex.Replace(this.mtxtTrackingID.Text, "[^0-9]", "")) || Regex.Replace(this.mtxtTrackingID.Text, "[^0-9]", "").Length != 10)
+                {
+                    MessageBox.Show("Complete todos los dígitos del tracking.", "Datos incompletos", MessageBoxButtons.OK ,MessageBoxIcon.Warning);
+
+                    return;
+                }
+
+                if (string.IsNullOrEmpty(this.txtDireccion.Text))
+                {
+                    MessageBox.Show("Debe indicar una dirección de destino.", "Datos incompletos", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+                    return;
+                }
+
                 Paquete paquete = new Paquete(this.txtDireccion.Text, this.mtxtTrackingID.Text);
 
                 paquete.InformaEstado += paq_InformaEstado;
@@ -40,11 +49,11 @@ namespace MainCorreo
             }
             catch(TrackingIdRepetidoException t)
             {
-                MessageBox.Show(t.Message);
+                MessageBox.Show(t.Message, "Paquete repetido", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            catch (Exception o)
+            catch (Exception ex)
             {
-                MessageBox.Show(o.Message);
+                MessageBox.Show("Ha ocurrido un error de proceso.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 

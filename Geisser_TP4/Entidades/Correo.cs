@@ -35,15 +35,22 @@ namespace Entidades
         /// </summary>
         public void FinEntregas()
         {
-            if (this.Paquetes.Count == 0)
+            try
             {
-                foreach (Thread hilo in this.mockPaquetes)
+                if (this.Paquetes.Count == 0)
                 {
-                    if (hilo.IsAlive)
+                    foreach (Thread hilo in this.mockPaquetes)
                     {
-                        hilo.Abort();
+                        if (hilo.IsAlive)
+                        {
+                            hilo.Abort();
+                        }
                     }
                 }
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message, e);
             }
         }
 
@@ -68,26 +75,34 @@ namespace Entidades
         /// </summary>
         public static Correo operator +(Correo c, Paquete p)
         {
-            foreach (Paquete paquete in c.Paquetes)
+            try
             {
-                if (p.TrackingID == paquete.TrackingID)
+                foreach (Paquete paquete in c.Paquetes)
                 {
-                    throw new TrackingIdRepetidoException("El paquete ya se encuentra ingresado en el sistema.");
+                    if (p.TrackingID == paquete.TrackingID)
+                    {
+                        throw new TrackingIdRepetidoException($"El tracking ID {p.TrackingID} ya se encuentra ingresado en el sistema.");
+                    }
                 }
+
+                c.Paquetes.Add(p);
+
+                Thread hiloPaquete = new Thread(p.mockCicloDeVida);
+
+                c.mockPaquetes.Add(hiloPaquete);
+
+                hiloPaquete.Start();
+
+                return c;
             }
-
-            c.Paquetes.Add(p);
-
-            Thread hiloPaquete = new Thread(p.mockCicloDeVida);
-
-            c.mockPaquetes.Add(hiloPaquete);
-
-            hiloPaquete.Start();
-
-            return c;
+            catch (TrackingIdRepetidoException t)
+            {
+                throw new TrackingIdRepetidoException(t.Message, t);
+            }
+            catch (Exception e)
+            {
+                throw new TrackingIdRepetidoException(e.Message, e);
+            }
         }
-
-
-
     }
 }
