@@ -1,0 +1,15 @@
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\TestsUnitarios.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\TestsUnitarios.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Entidades.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Entidades.pdb
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\obj\Debug\TestsUnitarios.csprojAssemblyReference.cache
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\obj\Debug\TestsUnitarios.csproj.CopyComplete
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\obj\Debug\TestsUnitarios.dll
+D:\Estudio\Programación\Programación_II\Programacion_II_TP4\Damian.Geisser.2C.TP4\TestsUnitarios\obj\Debug\TestsUnitarios.pdb
